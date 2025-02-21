@@ -52,9 +52,9 @@
   },
   "devDependencies": {
     "@eslint/js": "latest",
-    "esbuild": "0.23.0",
+    "esbuild": "latest",
     "eslint": "latest",
     "globals": "latest",
-    "postject": "^1.0.0-alpha.6"
+    "postject": "latest"
   }
 }
